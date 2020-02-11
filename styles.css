@@ -1,0 +1,21 @@
+body {
+	background-image: url("123.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;   
+}
+
+h1 {
+	color: #800000;
+	text-align: center;
+}
+h2 {
+	color: silver;
+	text-align: center;
+}
+
+pre { 
+color: white; 
+text-align: center;
+font-size: 15px;
+}
